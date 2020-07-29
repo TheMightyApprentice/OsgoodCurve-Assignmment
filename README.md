@@ -4,6 +4,8 @@ Program that creates an Osgood curve using both HTML and Javascript.
 
 A definition for Osgood curve can be found here: https://en.wikipedia.org/wiki/Osgood_curve
 
+-Common folder holds three pre-made files not made by me but required to run the main .html and .prog files.
+
 -Whatever value gap size is set to will be doubled as the value will be taken from both sides of the midpoint of the longest side.
 
 --A gap size of .5 or higher will result in the osgood curve function removing all of each shape.
