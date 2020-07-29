@@ -15,3 +15,5 @@ A definition for Osgood curve can be found here: https://en.wikipedia.org/wiki/O
 --Position fill will use grab red, green, and blue.
 
 -When refreshing the page, the image will revert to the default values provided when the page was first opened while the user values will stay the same.
+
+***Make sure to extract files before running the HTML.
