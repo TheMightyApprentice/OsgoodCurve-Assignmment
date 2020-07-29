@@ -1,12 +1,10 @@
 # OsgoodCurve-Assignmment
 
-Program that creates an Osgood curve using both HTML and Javascript.
+Program that creates an Osgood curve using HTML, Javascript, and WebGL.
 
 A definition for Osgood curve can be found here: https://en.wikipedia.org/wiki/Osgood_curve
 
 -Common folder holds three pre-made files not made by me but required to run the main .html and .prog files.
-
---canvasTools.js was another pre-provided set of code.
 
 -Whatever value gap size is set to will be doubled as the value will be taken from both sides of the midpoint of the longest side.
 
